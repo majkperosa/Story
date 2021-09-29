@@ -1,4 +1,1 @@
-Zdaj sem ustvaril git add
-
-
-Zdaj sem naredil commit
+Zdaj bom naredil drugi kommit 2
